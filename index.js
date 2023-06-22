@@ -62,7 +62,7 @@ function button_animation(current_key)
 
     setTimeout(function(){
         active_button.classList.remove("pressed")
-    },10000)
+    },100)
 }
 
 
